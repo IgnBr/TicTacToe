@@ -1,0 +1,13 @@
+#include "menu.h"
+
+IDR_MYMENU MENU
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "N&ew Game", ID_NEW_GAME
+    END
+
+END
+
+ID_ZERO_ICON ICON "zero.ico"
+ID_X_ICON ICON "cross.ico"

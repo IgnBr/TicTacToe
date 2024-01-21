@@ -1,0 +1,3 @@
+EXPORTS
+    _ZN7dllspec8dllclass23ConvertIntArrayToStringEPiiPc @1
+    _ZN7dllspec8dllclass9GetWinnerEPiS1_ @2

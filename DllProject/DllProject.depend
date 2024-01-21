@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1670160516 source:c:\users\ignas\documents\dllproject\main.cpp
+	<iostream>
+	"dllheader.h"
+
+1670161272 c:\users\ignas\documents\dllproject\dllheader.h
+
+1671049913 source:c:\users\ignas\desktop\winapizaidimas\dllproject\main.cpp
+	<iostream>
+	"dllheader.h"
+
+1671049863 c:\users\ignas\desktop\winapizaidimas\dllproject\dllheader.h
+

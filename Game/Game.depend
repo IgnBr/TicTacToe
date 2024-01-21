@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1671050982 source:c:\users\ignas\documents\game\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	"menu.h"
+	"dllheader.h"
+	<iostream>
+
+1669572271 c:\users\ignas\documents\game\menu.h
+	<windows.h>
+
+1669572588 source:c:\users\ignas\documents\game\menu.rc
+	"menu.h"
+
+1671049863 c:\users\ignas\documents\game\dllheader.h
+
+1669572588 source:c:\users\ignas\desktop\winapizaidimas\game\menu.rc
+	"menu.h"
+
+1669572271 c:\users\ignas\desktop\winapizaidimas\game\menu.h
+	<windows.h>
+
+1671051543 source:c:\users\ignas\desktop\winapizaidimas\game\main.cpp
+	<tchar.h>
+	<windows.h>
+	<windowsx.h>
+	"menu.h"
+	"dllheader.h"
+	<iostream>
+
+1671049863 c:\users\ignas\desktop\winapizaidimas\game\dllheader.h
+
